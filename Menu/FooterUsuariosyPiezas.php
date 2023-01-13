@@ -1,0 +1,7 @@
+    <script>
+
+    $('.ui.dropdown').dropdown();
+
+    </script>
+</body>
+</html>

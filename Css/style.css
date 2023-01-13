@@ -1,0 +1,136 @@
+/* Estilos personalizados para la pagina*/
+
+.miforma{
+    width: -100px;
+    clear: both;
+}
+
+.miforma input{
+    width: -100%;
+    clear: both;
+}
+
+#lateral {
+
+    width:500px;
+    margin:-5px 20px;
+    margin-bottom: 100px;
+    padding:15px;
+    background-color: #070707;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius: 20px;
+}
+#lateral2 {
+
+    width:500px;
+    margin:20px 0px;
+    margin-bottom: 100px;
+    padding:100px;
+    background-color: #070707;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius: 20px;
+}
+
+
+h4{
+    color: white;
+    font-size: 30px;
+    text-align:center;
+    background-color: rgb(231, 217, 10);
+}
+
+label{
+    color: rgb(248, 196, 82);
+}
+
+.moverboton{
+    margin-left: 30%;
+   
+}
+
+.moverbotondos{
+    margin-left: 35%;
+    
+}
+
+.moverbotontres{
+    margin-left: 38%;
+    
+}
+.separar{
+    color: rgb(248, 196, 82);
+}
+
+h1{
+    color: rgb(7, 7, 7);
+    text-align:center;
+}
+
+#Bienvenida{
+    background-color: rgb(248, 196, 82);
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius: 20px;
+}
+    
+#content{
+    color: rgb(248, 196, 82);
+}
+h2{
+    color: rgb(7, 7, 7);
+    text-align:center;
+    background-color: rgb(231, 217, 10);
+}
+
+.icon{
+    color: rgb(248, 196, 82);
+}
+
+.item{
+    background-color: rgb(231, 217, 10);
+}
+
+.piedepagina{
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(248, 196, 82);
+    margin-top:15px;
+    margin-left:100%;
+    width: 200px;
+    
+}
+.piedepagina:hover{
+    color: hsl(0, 0%, 100%);
+}
+.piedepaginados{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(248, 196, 82);
+    margin-left:500%;
+    margin-top:-50px;
+    width: 150px;
+}
+.piedepaginados:hover{
+    color: hsl(0, 0%, 100%);
+}
+
+.piedepaginatres{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(248, 196, 82);
+    margin-left:300%;
+    margin-top:-50px;
+    width: 150px;
+}
+
+#movermolde{
+
+    margin-right: 2.2%;
+}
+
+#movermolde1{
+
+    margin-right: 1%;
+}
